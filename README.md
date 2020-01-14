@@ -1,6 +1,6 @@
 Web Crawler in Python
 
-First attempt in web crawling.
+First attempt in web crawling, learned it from UDEMY.
 This web crawler, crawls through the website and fetches all the links, 
 And even goes through all the fetched links and fetches more links.
 And this way, it keeps on crawling over all the links.
